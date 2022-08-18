@@ -401,7 +401,10 @@ FodyWeavers.xsd
 
 .vs/
 DataAccess/DataAccess.csproj
-
+LinkLibraryAPI/LinkLibraryAPI.csproj
+LinkLibraryAPI/Properties/
+LinkLibraryAPI/appsettings.Development.json
+LinkLibraryAPI/appsettings.json
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
